@@ -1,0 +1,37 @@
+.wrapper-container{
+    margin-top: 100px;
+}
+.wrapper-container .follow-title{
+    text-align: center;
+    margin-right: 35px;
+    color: #7c7c7c;
+    font-size: 13px;
+}
+.wrapper-container .copyright{
+text-align: center;
+color: #777777;
+font-size: 11px;
+}
+.wrapper-container .copyright .copyName{
+    color: #54555b;
+}
+.wrapper{
+    height: 50px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.wrapper .icon{
+    margin-right: 20px;
+}
+
+.wrapper .fiverr{
+    margin-top: 5px;
+}
+

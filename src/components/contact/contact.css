@@ -1,6 +1,9 @@
+
 .c {
   height: 100vh;
   position: relative;
+
+ 
 }
 
 .c-bg {
@@ -8,6 +11,7 @@
   height: 100%;
   background-color: #59b256;
   position: absolute;
+  
 }
 
 .c-wrapper {
@@ -25,6 +29,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+ 
 }
 
 .c-title {
@@ -84,6 +89,10 @@ button {
   .c-wrapper {
     flex-direction: column;
     padding: 0px 50px;
+    
+  }
+  .c {
+   flex-wrap: nowrap;
   }
 
   .c-title {

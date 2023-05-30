@@ -7,20 +7,19 @@ const Intro = () => {
       <div className="i-left">
         <div className="i-left-wrapper">
           <h2 className="i-intro">Hello, My name is</h2>
-          <h1 className="i-name">John Burton</h1>
+          <h1 className="i-name">Emam Hossain</h1>
           <div className="i-title">
             <div className="i-title-wrapper">
-              <div className="i-title-item">Web Developer</div>
-              <div className="i-title-item">UI/UX Designer</div>
-              <div className="i-title-item">Photographer</div>
-              <div className="i-title-item">Writer</div>
-              <div className="i-title-item">Content Creator</div>
+              <div className="i-title-item f1">Social Media Marketing</div>
+              <div className="i-title-item">Pixel Set-Up</div>
+              <div className="i-title-item f1">Facebook Ads Campign</div>
+              <div className="i-title-item">Instagram Ads Campign</div>
+              <div className="i-title-item f1">Google Ads</div>
+              <div className="i-title-item">Linkedin Marketing</div>
             </div>
           </div>
           <p className="i-desc">
-            I design and develop services for customers of all sizes,
-            specializing in creating stylish, modern websites, web services and
-            online stores.
+          Digital Marketing Expert
           </p>
         </div>
         <svg

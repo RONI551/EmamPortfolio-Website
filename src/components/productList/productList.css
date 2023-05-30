@@ -34,7 +34,11 @@
   .pl-texts {
     width: 100%;
   }
-
+  .pl-title {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 40px;
+  }
   .pl-desc {
     display: none;
   }
